@@ -8,7 +8,7 @@ The classic game of Stone, Paper, Scissors! It's a simple hand game usually play
 
 *3. Scissors* - a fist with the index and middle fingers extended, forming a V
 
-**Rules**
+**Rules:**
 > *Stone beats Scissors:* Stone crushes Scissors.
 
 > *Scissors beat Paper:* Scissors cut Paper.
