@@ -14,3 +14,6 @@ The classic game of Stone, Paper, Scissors! It's a simple hand game usually play
 > *Scissors beat Paper:* Scissors cut Paper.
 
 > *Paper beats Stone:* Paper covers Stone.
+
+*** Visit the Link: ***
+# https://kjl98.github.io/stone_paper_scissor-Game/
